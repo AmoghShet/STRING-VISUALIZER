@@ -1,0 +1,7 @@
+python curtain_visualizer.py \
+    --input Lullabye.wav --output lullabye.mp4 \
+    --fps 60 \
+    --thread_color 255 255 255 \
+    --sway_amplitude 7.0 --pluck_strength 19.0 --pluck_decay 0.92 --pluck_threshold 0.08 \
+    --n_threads 40 --n_strands 4 --fringe_scale 0.22 \
+    --preview
