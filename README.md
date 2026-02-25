@@ -1,8 +1,8 @@
-# Curtain Audio Visualizer
+# String Audio Visualizer
 
 An audio-reactive hanging-thread renderer with CRT phosphor glow and fisheye lens distortion. Vertical threads hang from the top of the frame, swaying gently in a slow, unsynchronised drift. When the audio moves through them, the relevant threads are plucked — bowing outward in a brief decaying oscillation, their sub-strands fringing apart before settling back into one — giving the impression of a curtain of loose strings that simply exists in the room, and feels the music pass through it.
 
-Built as a sister project to [`PARTICLE-VISUALIZER`](https://github.com/AmoghShet/PARTICLE-VISUALIZER.git) & [`OSCILLOSCOPE-VISUALIZER`](https://github.com/AmoghShet/OSCILLOSCOPE-VISUALIZER.git), sharing the same rendering pipeline and visual aesthetic; was used to create the music visualizer for [`You Really Think Things Change?`](https://www.youtube.com/watch?v=wkN10XcN6KA)
+Built as a sister project to [`PARTICLE-VISUALIZER`](https://github.com/AmoghShet/PARTICLE-VISUALIZER.git) & [`OSCILLOSCOPE-VISUALIZER`](https://github.com/AmoghShet/OSCILLOSCOPE-VISUALIZER.git), sharing the same rendering pipeline and visual aesthetic; was used to create the music visualizer for [`Mo - Lullabye (Draft)`](https://www.youtube.com/watch?v=wkN10XcN6KA)
 
 ---
 
